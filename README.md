@@ -1,5 +1,8 @@
 # dash-platform-console
 
+**Work In Progress**
+
+
 ## Project setup
 ```
 npm install
@@ -22,3 +25,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Cloned under MIT licence from [https://github.com/dn-l/dash-platform-console](https://github.com/dn-l/dash-platform-console)

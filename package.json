@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dn-l/dash-platform-console.git"
+    "url": "git://github.com/cloudwheels/dash-platform-console.git"
   },
   "dependencies": {
-    "@dashevo/dapi-client": "github:dashevo/dapi-client#v0.8-dev",
-    "@dashevo/dpp": "github:dashevo/js-dpp#v0.10-dev",
+    "@dashevo/dapi-client": "*",
+    "@dashevo/dpp": "*",
     "brace": "^0.11.1",
     "core-js": "^3.4.3",
     "vue": "^2.6.10",
